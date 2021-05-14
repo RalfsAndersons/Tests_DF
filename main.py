@@ -4,3 +4,6 @@ print("test")
 print("Sveiki!")
 
 print("test2")
+
+print("tests")
+
